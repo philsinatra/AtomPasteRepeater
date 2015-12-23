@@ -1,0 +1,25 @@
+{
+  "name": "paste-repeater",
+  "main": "./lib/paste-repeater",
+  "version": "0.0.0",
+  "description": "Paste system clipboard multiple times",
+  "keywords": [
+    "paste","clipboard","repeat","multiple"
+  ],
+  "author": "Phil Sinatra",
+  "github": "https://github.com/philsinatra",
+  "repository": "https://github.com/philsinatra/AtomPasteRepeater",
+  "license": "MIT",
+  "activationCommands": {
+    "atom-workspace": [
+      "paste-repeater"
+    ]
+  },
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.0",
+    "underscore-plus": "^1.0.0"
+  }
+}

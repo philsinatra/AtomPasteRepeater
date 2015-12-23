@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Paste Repeater'
+      'command': 'paste-repeater'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Paste Repeater'
+      'submenu': [
+        {
+          'label': 'Paste'
+          'command': 'paste-repeater'
+        }
+      ]
+    ]
+  }
+]
