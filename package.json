@@ -1,10 +1,13 @@
 {
   "name": "paste-repeater",
   "main": "./lib/paste-repeater",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Paste system clipboard multiple times",
   "keywords": [
-    "paste","clipboard","repeat","multiple"
+    "paste",
+    "clipboard",
+    "repeat",
+    "multiple"
   ],
   "author": "Phil Sinatra",
   "github": "https://github.com/philsinatra",
