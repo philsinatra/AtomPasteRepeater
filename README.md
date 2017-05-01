@@ -1,6 +1,6 @@
-[![apm](https://img.shields.io/apm/v/paste-repeater.svg?style=flat-square)]()
-[![apm](https://img.shields.io/apm/dm/paste-repeater.svg?style=flat-square)]()
-[![license](https://img.shields.io/github/license/philsinatra/AtomPasteRepeater.svg?style=flat-square)]()
+[![apm](https://img.shields.io/apm/v/paste-repeater.svg?style=flat-square)](https://atom.io/packages/paste-repeater)
+[![apm](https://img.shields.io/apm/dm/paste-repeater.svg?style=flat-square)](https://atom.io/packages/paste-repeater)
+[![license](https://img.shields.io/github/license/philsinatra/AtomPasteRepeater.svg?style=flat-square)](https://github.com/philsinatra/AtomPasteRepeater/blob/master/LICENSE.md)
 
 # Paste Repeater
 
